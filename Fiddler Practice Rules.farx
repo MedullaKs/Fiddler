@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2023-03-27T21:04:32.9497551+02:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matches&quot;:[&quot;%%eyJ0eXBlIjo0LCJjb25kaXRpb24iOiJlcSIsInZhbHVlIjoiaHR0cHM6Ly93d3cueW91dHViZS5jb20vIiwiaWQiOjAsImNhc2VJbnNlbnNpdGl2ZUtleSI6ZmFsc2UsImNhc2VJbnNlbnNpdGl2ZVZhbHVlIjpmYWxzZSwiZW5hYmxlZCI6dHJ1ZX0=&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;%%eyJ0eXBlIjoyLCJ2YWx1ZSI6Imdvb2dsZS5jb20iLCJpZCI6ImE5dmI1bzFhZDByIiwiY2FzZUluc2Vuc2l0aXZlS2V5Ijp0cnVlLCJjYXNlSW5zZW5zaXRpdmVWYWx1ZSI6dHJ1ZSwia2V5IjoiSG9zdCIsImNvbmRpdGlvbiI6InNldCIsImZpbmQiOiIifQ==&quot;]" MaxMatchCount="1" Comment="Update request header" Enabled="false" />
+  </State>
+</AutoResponder>
